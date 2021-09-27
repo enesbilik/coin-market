@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702659954781",
+    "project_id": "turcoin-7abac",
+    "storage_bucket": "turcoin-7abac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702659954781:android:c438fdfcdcd80e3e88e5b4",
+        "android_client_info": {
+          "package_name": "com.market.mini_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702659954781-s30pive06jcht1u5b0mdpf2projne7hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_hFmQCtsTYtTVZROyhbV_bFqJs_Cidk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702659954781-s30pive06jcht1u5b0mdpf2projne7hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
